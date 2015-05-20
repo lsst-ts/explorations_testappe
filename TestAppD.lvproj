@@ -13,7 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="TestMathLib.lvlib" Type="Library" URL="../TestMathLib/TestMathLib.lvlib"/>
+			<Item Name="doMathThing.vi" Type="VI" URL="../TestMathLib/doMathThing.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
