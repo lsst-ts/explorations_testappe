@@ -1,0 +1,3 @@
+[submodule "TestMathLib"]
+	path = TestMathLib
+	url = git@git.lsstcorp.org:contrib/plotz/TS/SystemSW/CommonTest/TestMathLib.git
